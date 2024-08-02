@@ -1,10 +1,10 @@
-import Hero from "@/sections/home/hero";
+import Dummy from "@/sections/home/dummy";
 import React from "react";
 
 const Page = () => {
   return (
     <div>
-      <Hero />
+      <Dummy />
     </div>
   );
 };
